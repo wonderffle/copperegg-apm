@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.rdoc_options  = ['--line-numbers', '--inline-source', '--title', 'copperegg-apm', '--main', 'README.md']
   s.executables   = ['copperegg-apm-init', 'copperegg-apm-methods']
 
-  s.add_development_dependency 'rake', '~> 10.0.0'
+  s.add_development_dependency 'rake', '~> 13.0.1'
   s.add_development_dependency 'rspec', '~> 2.11.0'
   s.add_development_dependency 'rspec-rails', '~> 2.0'
   s.add_development_dependency 'actionpack', '~> 3.0'
