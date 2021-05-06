@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rake', '~> 10.0.0'
   s.add_development_dependency 'rspec', '~> 2.11.0'
   s.add_development_dependency 'rspec-rails', '~> 2.0'
-  s.add_development_dependency 'actionpack', '~> 3.0'
+  s.add_development_dependency 'actionpack', '~> 6.0'
   s.add_development_dependency 'faker', '~> 1.1.2'
   s.add_development_dependency 'mysql', '~> 2.9'
   s.add_development_dependency 'mysql2', '~> 0.2'
