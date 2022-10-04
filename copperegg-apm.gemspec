@@ -30,5 +30,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'pg', '~> 0.9'
   s.add_development_dependency 'ethon', '~> 0.5'
   s.add_development_dependency 'typhoeus', '~> 0.3'
-  s.add_development_dependency 'rest-client', '~> 1.6'
+  s.add_development_dependency 'rest-client', '~> 2.1'
 end
